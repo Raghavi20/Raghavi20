@@ -1,6 +1,6 @@
 👋 Hey, I’m Raghavi!
 
-💻 I’m an ML Engineer with around 3 years of experience across Software Engineering and Data Science.
+💻 I’m an ML Engineer with around 3 years of experience in Software Engineering and Data Science.
 
 🌱 I love learning and building things around data, ML, and cybersecurity.
 
